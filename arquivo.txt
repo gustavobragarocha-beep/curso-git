@@ -1,2 +1,3 @@
 o resumo da aula
-
+o comando git init inicializa o repositorio
+o git status mostra o estado atual do repositorio
